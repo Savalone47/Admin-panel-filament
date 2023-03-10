@@ -9,7 +9,7 @@
 
 ## Admin - panel with filament
 
-<img src="l9.png" alt="admin-panel"/>
+<img src="02.png" alt="admin-panel"/>
 
 ## Learning Laravel
 
